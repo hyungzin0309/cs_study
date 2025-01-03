@@ -34,8 +34,8 @@
 ---
 ### LB(위) 와 DNS(아래)
 
-![LB+DNS.png](..%2Fimage%2FLB%2BDNS.png)
+![LB+DNS.png](images%2FLB%2BDNS.png)
 
 ### GSLB (LB + DNS)
 
-![GSLB.png](..%2Fimage%2FGSLB.png)
+![GSLB.png](images%2FGSLB.png)

@@ -12,7 +12,7 @@
 4. 특정 요청에 대한 **응답을 캐싱**하여 부하를 줄인다.
 5. API Gateway 에 모니터링 구성을 추가하여, **트래픽 패턴 분석** 등이 가능하다.
 
-![API_Gateway2.png](images%2FAPI_Gateway2.png)
+![API_gateway2.png](images%2FAPI_gateway2.png)
 6. 서로 다른 프로토콜을 제공하는 client 및 백엔드 서비스를 일괄적으로 처리할 수 있다.
    - 사용자로부터 전달받은 요청을, 백엔드 서비스의 프로토콜에 맞춰 변환 후 전달
 
